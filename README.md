@@ -1,8 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Modern Dental Group Limited (3600.HK)<br>🌱 I’m learning Kubernetes and AI (mcp server, ai agent, ...)<br>💬 Ask me about the future of software development<br>⚡ Fun fact - I'm smart but still working hard
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/jim-chow-727277210) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cychowai@connect.ust.hk) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/jim-chow-727277210) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cychowai@connect.ust.hk)
+
+<br><br>
 
 # 💻 Tech Stack:
 <div align="left">
@@ -65,16 +66,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
 </div>
 
+<br><br>
+
 # 📊 GitHub Stats:
-<img src="https://raw.githubusercontent.com/cychowai/cychowai/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cychowai/cychowai/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cychowai/cychowai/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cychowai/cychowai/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cychowai/cychowai/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ## 🏆 GitHub Trophies
 <div align="center">
