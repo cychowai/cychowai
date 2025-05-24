@@ -75,9 +75,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/cychowai/cychowai/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-</div>
+</div> -->
 
 ## 🏆 GitHub Trophies
 <div align="center">
