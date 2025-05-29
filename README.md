@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Modern Dental Group Limited (3600.HK)<br>🎓 I'm a Computer Engineering graduate from HKUST (2022)<br>🌱 I’m learning AI (mcp server, ai agent, ...) and working on some open-source projects <br>💬 Know me more on my website at https://www.jim-chow.com/<br>⚡ Fun fact - I'm smart but still working hard
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/jim-chow-727277210) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cychowai@connect.ust.hk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jim-chow-727277210/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cychowai@connect.ust.hk)
 
 <br><br>
 
