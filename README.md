@@ -75,10 +75,6 @@
 
 ###
 
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/cychowai/cychowai/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-</div> -->
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cychowai&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
